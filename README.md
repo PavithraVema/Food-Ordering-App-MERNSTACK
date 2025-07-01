@@ -1,6 +1,8 @@
 # Food-Ordering-App-MERNSTACK
 Demo - <a href="https://drive.google.com/file/d/1DLog3a51djjwvSNz1WrkB0uMwp-8e3c1/view?usp=drivesdk">view video</a>
-PPT -<a href="https://docs.google.com/document/d/1aSGhfxFfMYMJChknR-pL47FW-idnhj2F/edit?usp=sharing&ouid=107917445781301743104&rtpof=true&sd=true">view ppt </a>
+
+
+Documentation -<a href="https://docs.google.com/document/d/1aSGhfxFfMYMJChknR-pL47FW-idnhj2F/edit?usp=sharing&ouid=107917445781301743104&rtpof=true&sd=true">VIEW DOCUMENTATION </a>
 
 
 
