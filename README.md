@@ -1,4 +1,4 @@
-# Food-Ordering-App-MERNSTACK
+# Food-Ordering-App-MERNSTACK(Order-On-The-Go)
 Demo - <a href="https://drive.google.com/file/d/1DLog3a51djjwvSNz1WrkB0uMwp-8e3c1/view?usp=drivesdk">VIEW VIDEO</a>
 
 
