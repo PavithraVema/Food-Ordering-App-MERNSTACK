@@ -67,7 +67,7 @@ Follow these steps to set up the project on your local machine.
 git clone https://github.com/PavithraVema/Order-On-The-Go.git
 cd Order-On-The-Go
 
-**2. Install Dependencies**
+##2. Install Dependencies****
 For Node.js
 bash
 Copy
@@ -76,12 +76,13 @@ npm install
 For Python (Flask/Django)
 bash
 pip install -r requirements.txt
-3. Setup the Database
+##3. Setup the Database
 For MySQL/PostgreSQL
 CREATE DATABASE order_on_the_go;
-4. Run the Application
+##4. Run the Application
 For Node.js
 npm start
+
 🌐 Usage
 🔐 Sign Up / Log In to the system.
 
@@ -95,7 +96,7 @@ npm start
 
 
 
-# Project Files Structure
+ Project Files Structure
 ![image](https://github.com/user-attachments/assets/5a0e079c-e969-4fb5-8a73-bc7cd30b820f)
 
 
