@@ -7,7 +7,15 @@ Documentation -<a href="https://docs.google.com/document/d/1aSGhfxFfMYMJChknR-pL
 
 PPT -<a href="https://www.canva.com/design/DAGr73dEvwY/SHf8qVJavnbW1fiQh3uewg/view?utm_content=DAGr73dEvwY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h77f2db05c4">VIEW PPT</a>
 
-![image](https://github.com/user-attachments/assets/5a0e079c-e969-4fb5-8a73-bc7cd30b820f)
+## 📁 Project Files Structure
+![image](https://github.com/user-attachments/assets/5a0e079c-e969-4fb5-8a73-bc7cd30b820f)     ![image](https://github.com/user-attachments/assets/f8cab68e-57e8-47c8-bab3-1f0acee8f924)
+
+![image](https://github.com/user-attachments/assets/bbf0589e-a667-4a04-8507-9d96277af2cf)
+
+
+
+
+
 
 
 # 🍽️ Order-On-The-Go
@@ -94,14 +102,8 @@ npm start
 
 💳 Checkout and complete payment.
 
-
-
-
-# Project Files Structure
-![image](https://github.com/user-attachments/assets/5a0e079c-e969-4fb5-8a73-bc7cd30b820f)
-
-
 📄 Track Orders and view history in your account section.
+## 📁 Project Files Structure
 
 
 
