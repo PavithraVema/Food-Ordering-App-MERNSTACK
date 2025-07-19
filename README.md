@@ -7,6 +7,8 @@ Documentation -<a href="https://docs.google.com/document/d/1aSGhfxFfMYMJChknR-pL
 
 PPT -<a href="https://www.canva.com/design/DAGr73dEvwY/SHf8qVJavnbW1fiQh3uewg/view?utm_content=DAGr73dEvwY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h77f2db05c4">VIEW PPT</a>
 
+![image](https://github.com/user-attachments/assets/5a0e079c-e969-4fb5-8a73-bc7cd30b820f)
+
 
 # 🍽️ Order-On-The-Go
 
