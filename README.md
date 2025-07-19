@@ -92,6 +92,13 @@ npm start
 
 💳 Checkout and complete payment.
 
+
+
+
+# Project Files Structure
+![image](https://github.com/user-attachments/assets/5a0e079c-e969-4fb5-8a73-bc7cd30b820f)
+
+
 📄 Track Orders and view history in your account section.
 
 
